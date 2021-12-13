@@ -9,6 +9,6 @@ function loadContent(){
         }
 
         let div = document.getElementById("content");
-        div.appendChild(lista);
+        div.appendChild(ul);
     });
 }
